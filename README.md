@@ -1,4 +1,4 @@
-<img width="1259" alt="Screenshot 2024-07-24 at 5 48 23 PM" src="https://github.com/user-attachments/assets/ffb4a9e6-8919-42fb-8182-bded1f729ef1"># Indian Agriculture Data Analysis
+# Indian Agriculture Data Analysis
 
 This project analyzes Indian Agriculture data and displays the results in two tables using React, TypeScript, and Mantine.
 
@@ -52,7 +52,8 @@ This table shows the crops with maximum and minimum production for each year fro
 
 This table displays the average yield and average cultivation area for each crop between 1950 and 2020.
 
-[Insert screenshot of Crop Averages Table here]
+<img width="1160" alt="Screenshot 2024-07-24 at 6 02 26 PM" src="https://github.com/user-attachments/assets/3ad535c0-4639-4498-8289-3fcec765d2bb">
+
 
 ## Data Processing
 

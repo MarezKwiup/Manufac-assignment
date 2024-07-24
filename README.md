@@ -17,22 +17,24 @@ This project analyzes Indian Agriculture data and displays the results in two ta
 
 ## Project Structure
 
-agriculture-analysis/
-   ├── src/
-   │   ├── components/
-   │   │   ├── MaxMinProductionTable.tsx
-   │   │   └── AverageCropStatsTable.tsx
-   │   ├── utils/
-   │   │   └── dataProcessor.ts
-   │   ├── App.tsx
-   │   └── main.tsx
-   ├── public/
-   │   └── agriculture_data.csv
-   ├── index.html
-   ├── package.json
-   ├── tsconfig.json
-   ├── vite.config.ts
-   └── README.md
+```
+my-agriculture-analysis/
+├── src/
+│   ├── components/
+│   │   ├── MaxMinProductionTable.tsx
+│   │   └── AverageCropStatsTable.tsx
+│   ├── utils/
+│   │   └── dataProcessor.ts
+│   ├── data/
+│   │   └── agriculture_data.json
+│   ├── App.tsx
+│   └── main.tsx
+├── index.html
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+└── README.md
+```
 
 ## Tables
 

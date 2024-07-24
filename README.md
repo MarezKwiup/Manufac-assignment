@@ -17,12 +17,22 @@ This project analyzes Indian Agriculture data and displays the results in two ta
 
 ## Project Structure
 
-- `src/`
-  - `components/`: React components for the tables
-  - `utils/`: Utility functions for data processing
-  - `data/`: Contains the agriculture data JSON file
-  - `App.tsx`: Main application component
-  - `main.tsx`: Entry point of the application
+agriculture-analysis/
+   ├── src/
+   │   ├── components/
+   │   │   ├── MaxMinProductionTable.tsx
+   │   │   └── AverageCropStatsTable.tsx
+   │   ├── utils/
+   │   │   └── dataProcessor.ts
+   │   ├── App.tsx
+   │   └── main.tsx
+   ├── public/
+   │   └── agriculture_data.csv
+   ├── index.html
+   ├── package.json
+   ├── tsconfig.json
+   ├── vite.config.ts
+   └── README.md
 
 ## Tables
 

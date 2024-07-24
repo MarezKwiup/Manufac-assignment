@@ -5,7 +5,7 @@ This project analyzes Indian Agriculture data and displays the results in two ta
 ## Setup and Running
 
 1. Clone the repository
-2. Install dependencies:
+2. Install dependencies(ensure you are using node version 20 or greater):
    ```
    yarn install
    ```

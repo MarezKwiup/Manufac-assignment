@@ -44,9 +44,8 @@ This table shows the crops with maximum and minimum production for each year fro
 
 <img width="1354" alt="Screenshot 2024-07-24 at 5 48 11 PM" src="https://github.com/user-attachments/assets/deb192e5-712e-4ba1-ae9b-72a20771ae86">
 
-![Uploading Screenshot 2024-07-24 at 5.48.23
-<img width="1100" alt="Screenshot 2024-07-24 at 5 54 59 PM" src="https://github.com/user-attachments/assets/46f43964-8c07-4111-899b-303459caa9fa">
- PM.png…]()
+
+<img width="1100" alt="Screenshot 2024-07-24 at 5 54 59 PM" src="https://github.com/user-attachments/assets/01c296e3-69d8-4a24-8cf8-4a6610d6b419">
 
 
 ### Crop Averages (1950-2020)
